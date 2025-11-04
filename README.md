@@ -1,4 +1,4 @@
-Homework-7 dbt + Snowflake
+# Homework-7 dbt + Snowflake
 
 1. Create a dbt project with snowflake connector (1 pt)
 
@@ -18,8 +18,8 @@ Homework-7 dbt + Snowflake
 
 # Commands to run on terminal:
 
-dbt debug
-dbt run
-dbt snapshot
-dbt test
+dbt debug  
+dbt run  
+dbt snapshot  
+dbt test  
 
