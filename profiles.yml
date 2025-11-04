@@ -1,0 +1,13 @@
+session_analytics:
+  outputs:
+    dev:
+      account:SFEDU02-LVB17920 
+      database: USER_DB_TIGER
+      password: Ameyakhond@12345
+      role: TRAINING_ROLE
+      threads: 1
+      schema: ANALYTICS
+      type: SNOWFLAKE
+      user: GATOR
+      warehouse: TIGER_QUERY_WH
+  target: dev
